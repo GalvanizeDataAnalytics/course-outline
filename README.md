@@ -2,19 +2,19 @@
 
 - [Galvanize Data Analytics Online Immersive](#galvanize-data-analytics-online-immersive)
   - [Welcome](#welcome)
-  - [Schedule](#schedule)
+  - [Contents Repository](#contents-repository)
   - [Resources](#resources)
     - [References](#references)
 
 
 ## Welcome
 
-## Schedule
+## Contents Repository
 
-|   |   |
-|---|---|
-|   |   |
+Pointers to the location of resources.
 
+* [Excel](Excel.md)
+* [SQL](SQL.md)
 
 ## Resources
 
