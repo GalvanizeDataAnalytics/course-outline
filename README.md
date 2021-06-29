@@ -3,7 +3,8 @@
 - [Galvanize Data Analytics Online Immersive](#galvanize-data-analytics-online-immersive)
   - [Welcome](#welcome)
   - [Contents Repository](#contents-repository)
-  - [Resources](#resources)
+    - [Topics](#topics)
+    - [Resources](#resources)
     - [References](#references)
 
 
@@ -13,10 +14,19 @@
 
 Pointers to the location of resources.
 
+### Topics
+
 * [Excel](Excel.md)
 * [SQL](SQL.md)
+* [Tableau](Tableau.md)
+* [EDA & Python](EDA_Python.md)
+* [Probability & Stats](Probability_Stats.md)
+* [Inferential Stats](Inferential_Stats.md)
 
-## Resources
+### Resources
+
+* [V&V](V&V.md)
+* [Case Studies](CaseStudies.md)
 
 ### References
 
